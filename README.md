@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Backend Jr`**
 
-👋 Olá! Meu nome é Cleverson, tenho 51 anos e sou natural de São Caetano do Sul – SP.
-🎓 Sou formado no curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Municipal de São Caetano do Sul (USCS).
+👋 Olá! Meu nome é Cleverson, tenho 51 anos e sou natural de São Caetano do Sul – SP.<br>
+🎓 Sou formado no curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Municipal de São Caetano do Sul (USCS).<br>
 💻 A tecnologia sempre esteve presente na minha vida, mas foi nos últimos anos que decidi transformar essa paixão em uma nova carreira.
 Atualmente, dedico meu tempo ao estudo constante da programação backend, buscando entender a fundo desde os fundamentos da lógica até a construção de APIs robustas, bancos de dados eficientes e aplicações escaláveis.
 🔍 Tenho interesse especial por linguagens como JavaScript/Node.js, Python e Java, além de ferramentas como Express, PostgreSQL, MongoDB e Docker. Estou sempre explorando boas práticas, clean code, arquitetura de software e versionamento com Git.

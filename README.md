@@ -5,10 +5,10 @@
 👋 Olá! Meu nome é Cleverson, tenho 51 anos e sou natural de São Caetano do Sul – SP.<br>
 🎓 Sou formado no curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Municipal de São Caetano do Sul (USCS).<br>
 💻 A tecnologia sempre esteve presente na minha vida, mas foi nos últimos anos que decidi transformar essa paixão em uma nova carreira.
-Atualmente, dedico meu tempo ao estudo constante da programação backend, buscando entender a fundo desde os fundamentos da lógica até a construção de APIs robustas, bancos de dados eficientes e aplicações escaláveis.
-🔍 Tenho interesse especial por linguagens como JavaScript/Node.js, Python e Java, além de ferramentas como Express, PostgreSQL, MongoDB e Docker. Estou sempre explorando boas práticas, clean code, arquitetura de software e versionamento com Git.
-🚀 Encaro a jornada da tecnologia como um aprendizado contínuo. Busco constantemente evoluir minhas habilidades técnicas e também desenvolver minha capacidade de colaborar em equipe, lidar com desafios reais e entregar soluções que façam a diferença.
-📌 Meu objetivo é me consolidar como desenvolvedor backend, contribuindo com projetos reais e também compartilhando meu aprendizado com outros iniciantes e entusiastas da área, mostrando que nunca é tarde para recomeçar ou se reinventar
+Atualmente, dedico meu tempo ao estudo constante da programação backend, buscando entender a fundo desde os fundamentos da lógica até a construção de APIs robustas, bancos de dados eficientes e aplicações escaláveis.<br>
+🔍 Tenho interesse especial por linguagens como JavaScript/Node.js, Python e Java, além de ferramentas como Express, PostgreSQL, MongoDB e Docker. Estou sempre explorando boas práticas, clean code, arquitetura de software e versionamento com Git.<br>
+🚀 Encaro a jornada da tecnologia como um aprendizado contínuo. Busco constantemente evoluir minhas habilidades técnicas e também desenvolver minha capacidade de colaborar em equipe, lidar com desafios reais e entregar soluções que façam a diferença.<br>
+📌 Meu objetivo é me consolidar como desenvolvedor backend, contribuindo com projetos reais e também compartilhando meu aprendizado com outros iniciantes e entusiastas da área, mostrando que nunca é tarde para recomeçar ou se reinventar<br>
 
 
 
